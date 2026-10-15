@@ -1,14 +1,14 @@
+# Python environment and cache
 .venv/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Private Streamlit settings
 .streamlit/secrets.toml
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
-checkpoints/*
-!checkpoints/.gitkeep
-results/*
-!results/.gitkeep
+
+# Temporary presentation-generation files
+.presentation-build/
+.codex-finalizer/
+.chart-data-*/
 

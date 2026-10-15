@@ -1,0 +1,94 @@
+{
+  "source_sha256": "45d09792492ce049039dd24aa27b07fc79ce20c573187d4d90bcd178c0c0d360",
+  "raw_rows": 7831,
+  "invalid_smiles_removed": 8,
+  "unique_molecules": 7823,
+  "duplicate_rows_removed": 0,
+  "conflicting_duplicate_task_labels_masked": 0,
+  "task_summary": {
+    "NR-AR": {
+      "observed": 7258,
+      "active": 308,
+      "inactive": 6950,
+      "missing": 565,
+      "active_fraction": 0.04243593276384679
+    },
+    "NR-AR-LBD": {
+      "observed": 6751,
+      "active": 237,
+      "inactive": 6514,
+      "missing": 1072,
+      "active_fraction": 0.03510591023552066
+    },
+    "NR-AhR": {
+      "observed": 6542,
+      "active": 768,
+      "inactive": 5774,
+      "missing": 1281,
+      "active_fraction": 0.11739529195964536
+    },
+    "NR-Aromatase": {
+      "observed": 5815,
+      "active": 300,
+      "inactive": 5515,
+      "missing": 2008,
+      "active_fraction": 0.051590713671539126
+    },
+    "NR-ER": {
+      "observed": 6186,
+      "active": 791,
+      "inactive": 5395,
+      "missing": 1637,
+      "active_fraction": 0.12786938247655996
+    },
+    "NR-ER-LBD": {
+      "observed": 6948,
+      "active": 349,
+      "inactive": 6599,
+      "missing": 875,
+      "active_fraction": 0.05023028209556707
+    },
+    "NR-PPAR-gamma": {
+      "observed": 6443,
+      "active": 186,
+      "inactive": 6257,
+      "missing": 1380,
+      "active_fraction": 0.028868539500232812
+    },
+    "SR-ARE": {
+      "observed": 5825,
+      "active": 942,
+      "inactive": 4883,
+      "missing": 1998,
+      "active_fraction": 0.16171673819742488
+    },
+    "SR-ATAD5": {
+      "observed": 7065,
+      "active": 264,
+      "inactive": 6801,
+      "missing": 758,
+      "active_fraction": 0.037367303609341825
+    },
+    "SR-HSE": {
+      "observed": 6460,
+      "active": 372,
+      "inactive": 6088,
+      "missing": 1363,
+      "active_fraction": 0.057585139318885446
+    },
+    "SR-MMP": {
+      "observed": 5804,
+      "active": 918,
+      "inactive": 4886,
+      "missing": 2019,
+      "active_fraction": 0.15816678152997932
+    },
+    "SR-p53": {
+      "observed": 6767,
+      "active": 423,
+      "inactive": 6344,
+      "missing": 1056,
+      "active_fraction": 0.06250923599822669
+    }
+  }
+}

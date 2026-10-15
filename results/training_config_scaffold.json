@@ -1,0 +1,23 @@
+{
+  "epochs_requested": 80,
+  "epochs_completed": 13,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "seed": 42,
+  "split": "scaffold",
+  "device": "cpu",
+  "positive_weights": {
+    "NR-AR": 22.79183578491211,
+    "NR-AR-LBD": 27.80104637145996,
+    "NR-AhR": 8.054607391357422,
+    "NR-Aromatase": 22.091787338256836,
+    "NR-ER": 6.9375,
+    "NR-ER-LBD": 18.101694107055664,
+    "NR-PPAR-gamma": 38.83458709716797,
+    "SR-ARE": 5.842917442321777,
+    "SR-ATAD5": 28.348718643188477,
+    "SR-HSE": 18.0,
+    "SR-MMP": 5.738330841064453,
+    "SR-p53": 18.85920524597168
+  }
+}
